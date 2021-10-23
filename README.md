@@ -23,25 +23,25 @@ I'm Asep M. S. Currently, I am interested in Computer Machine, Web and Music
 
 ### Lets's Connect
 <a href="https://github.com/asepms92">
-	<img width="32" align="left"
+	<img width="30" align="left"
 		 alt="GitHub profile"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
 </a>
 
 <a href="https://twitter.com/asepmscom">
-	<img width="32" align="left"
+	<img width="30" align="left"
 		 alt="Twitter profile"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
 </a>
 
 <a href="mailto:asepmsholeh@gmail.com">
-	<img width="32" align="left"
+	<img width="30" align="left"
 		 alt="Gmail"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">
 </a>
 
 <a href="https://soundcloud.com/asepmscom">
-	<img width="32" align="left"
+	<img width="30" align="left"
 		 alt="SoundCloud profile"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg">
 </a>
