@@ -8,7 +8,7 @@ I'm Asep M. S. Currently, I am interested in Computer Machine, Web and Music
   <img src="https://img.shields.io/badge/OS-Linux-yellow?&logo=linux" />
   <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=windows" />
   <img src="https://img.shields.io/badge/Code-Python-purple?&logo=python" />
-  <img src="https://img.shields.io/badge/Code-C++-black?&logo=c++" />
+  <img src="https://img.shields.io/badge/Code-C/C++-black?&logo=c/c++" />
   <img src="https://gpvc.arturio.dev/asepms92" />
 </p>
 
