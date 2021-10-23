@@ -15,8 +15,10 @@ I'm Asep M. S. Currently, I am interested in Computer Machine, Web and Music
 ### Stats:
 <details>
  <summary><strong>Working on these days</strong></summary>
-    - 🌱 I’m currently learning Python and C/C++ </br>
+    - 💻 I’m currently learning Python and C/C++ </br>
+    - 📫 How to reach me: <a href="asepmsholeh@gmail.com">Email me!</a>  </br>
     - 💬 Ask me about anything.</br>
+    - 😄 Pronouns: He/Him </br>
 </details>
 
 ### Lets's Connect
