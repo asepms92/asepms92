@@ -8,7 +8,7 @@ I'm Asep M. S. Currently, I am interested in Computer Machine, Web and Music
   <img src="https://img.shields.io/badge/OS-Linux-yellow?&logo=linux" />
   <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=windows" />
   <img src="https://img.shields.io/badge/Code-Python-purple?&logo=python" />
-  <img src="https://img.shields.io/badge/Code-C/C++-black?&logo=c/c++" />
+  <img src="https://img.shields.io/badge/Code-C/C++-black?&logo=c" />
   <img src="https://gpvc.arturio.dev/asepms92" />
 </p>
 
@@ -49,8 +49,9 @@ I'm Asep M. S. Currently, I am interested in Computer Machine, Web and Music
 <br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asepms92&bg_color=30,19c9fa,1977fa&title_color=fff&text_color=fff&icon_color=023047&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asepms92&layout=compact" height=180 />
+	<img src="https://github-profile-trophy.vercel.app/?username=asepms92&no-frame=true&title=Followers, PullRequest, Repositories"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=asepms92&bg_color=30,19c9fa,1977fa&title_color=fff&text_color=fff&icon_color=023047&show_icons=true">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asepms92&layout=compact" height=180 />
 </p>
 
 <!--
