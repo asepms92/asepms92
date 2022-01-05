@@ -2,7 +2,7 @@
 
 I'm Asep M. S. Currently, I am interested in Computer Machine, Web and Music
 
-### OS and Tools:
+### OS and Languages:
 <p>
   <img src="https://img.shields.io/badge/OS-MacOS-red?&logo=apple" />
   <img src="https://img.shields.io/badge/OS-Linux-yellow?&logo=linux" />
@@ -49,7 +49,7 @@ I'm Asep M. S. Currently, I am interested in Computer Machine, Web and Music
 <br><br>
 
 <p align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=asepms92&no-frame=true&title=Followers, PullRequest, Repositories"/>
+	<img src="https://github-profile-trophy.vercel.app/?username=asepms92&theme=matrix&title=Stars, Followers, PullRequest, Repositories"/>
 	<img src="https://github-readme-stats.vercel.app/api?username=asepms92&bg_color=30,19c9fa,1977fa&title_color=fff&text_color=fff&icon_color=023047&show_icons=true">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asepms92&layout=compact" height=180 />
 </p>
