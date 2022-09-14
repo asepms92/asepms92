@@ -51,5 +51,4 @@ I'm Asep M. S. Currently, I am interested in Computer Machine, Web and Music
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=asepms92&bg_color=30,19c9fa,1977fa&title_color=fff&text_color=fff&icon_color=023047&show_icons=true">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asepms92&layout=compact" height=180 />
-	<img src="https://github-profile-trophy.vercel.app/?username=asepms92&theme=matrix&column=4&title=Stars, Followers, PullRequest, Repositories"/>
 </p>
