@@ -9,14 +9,14 @@ Currently, I am interested in Computer, Web and Music.</br>
   <a href="https://github.com/asepms92">
    <img width="30" align="center" alt="GitHub profile" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
   </a>
+  <a href="https://soundcloud.com/asepmscom">
+   <img width="30" align="center" alt="SoundCloud profile" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg">
+  </a>
   <a href="https://twitter.com/asepmscom">
    <img width="30" align="center" alt="Twitter profile" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
   </a>
-  <a href="mailto:asepmsholeh@gmail.com">
-   <img width="30" align="center" alt="Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">
-  </a>
-  <a href="https://soundcloud.com/asepmscom">
-   <img width="30" align="center" alt="SoundCloud profile" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg">
+  <a href="https://linkedin.com/in/moehammad-asep-ab405048">
+   <img width="30" align="center" alt="Linkedin profile" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
   </a>
 </details>
 
@@ -35,8 +35,8 @@ Currently, I am interested in Computer, Web and Music.</br>
 <p align="center">
  <img src="https://img.shields.io/badge/OS-MacOS-red?&logo=apple"/>
  <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=windows"/>
- <img src="https://img.shields.io/badge/OS-Manjaro-green?&logo=linux"/>
- <img src="https://img.shields.io/badge/Code-C/C++-grey?&logo=c"/>
+ <img src="https://img.shields.io/badge/OS-Manjaro-green?&logo=manjaro"/>
+ <img src="https://img.shields.io/badge/Code-C/C++-white?&logo=cplusplus"/>
  <img src="https://img.shields.io/badge/Code-Python-purple?&logo=python"/>
 </p>
 
