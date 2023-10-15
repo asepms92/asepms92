@@ -1,22 +1,23 @@
-# Hi there, Welcome to My Profile 👋
+## Hi there, Welcome to My Profile 👋
 
-I'm Asep M. S. just a simple man.</br>
-Currently, I am interested in Computer, Web and Music.</br>
+<a href="https://git.io/typing-svg">
+ <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&random=false&width=435&lines=I'm+Asep+M.+S.+just+a+simple+man;I'm+insterested+in+Computer%2C+Web+%26+Music" alt="Typing SVG"/>
+</a>
 
 ### Follow me:
 <details>
  <summary><strong>Click here</strong></summary>
   <a href="https://github.com/asepms92">
-   <img width="30" align="center" alt="GitHub profile" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="30" align="center" alt="GitHub profile"/>
   </a>
   <a href="https://soundcloud.com/asepmscom">
-   <img width="30" align="center" alt="SoundCloud profile" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg">
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg" width="30" align="center" alt="SoundCloud profile"/>
   </a>
   <a href="https://twitter.com/asepmscom">
-   <img width="30" align="center" alt="Twitter profile" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30" align="center" alt="Twitter profile"/>
   </a>
   <a href="https://linkedin.com/in/moehammad-asep-ab405048">
-   <img width="30" align="center" alt="Linkedin profile" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30" align="center" alt="Linkedin profile"/>
   </a>
 </details>
 
