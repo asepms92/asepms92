@@ -8,16 +8,16 @@
 <details>
  <summary><strong>Click here</strong></summary>
   <a href="https://github.com/asepms92">
-   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="30" align="center" alt="GitHub profile"/>
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="30" alt="GitHub profile"/>
   </a>
   <a href="https://soundcloud.com/asepmscom">
-   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg" width="30" align="center" alt="SoundCloud profile"/>
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg" width="30" alt="SoundCloud profile"/>
   </a>
   <a href="https://twitter.com/asepmscom">
-   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30" align="center" alt="Twitter profile"/>
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30" alt="Twitter profile"/>
   </a>
   <a href="https://linkedin.com/in/moehammad-asep-ab405048">
-   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30" align="center" alt="Linkedin profile"/>
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30" alt="Linkedin profile"/>
   </a>
 </details>
 
