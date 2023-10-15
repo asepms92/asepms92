@@ -33,9 +33,7 @@ I'm Asep M. S. Currently, I am interested in Computer, Web and Music
 <a href="https://soundcloud.com/asepmscom">
 	<img width="30" alt="SoundCloud profile" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg">
 </a>
-
 <br><br>
-
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=asepms92&theme=vision-friendly-dark&include_all_commits=true&count_private=false&layout=compact" height=180/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asepms92&theme=vision-friendly-dark&include_all_commits=true&count_private=false&layout=compact" height=180/>
