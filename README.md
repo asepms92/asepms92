@@ -1,8 +1,5 @@
 ## Hi there, Welcome to My Profile 👋
-
-<a href="https://git.io/typing-svg">
- <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&pause=500&random=false&width=435&lines=I'm+Asep+M.+S.+just+a+simple+man;I'm+insterested+in+Computer%2C+Web+%26+Music" alt="Typing SVG"/>
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&duration=4000&pause=500&random=false&width=435&lines=I'm+Asep+M.+S.+just+a+simple+man;I'm+insterested+in+Computer%2C+Web+%26+Music)](https://git.io/typing-svg)
 
 ### Follow me:
 <details>
