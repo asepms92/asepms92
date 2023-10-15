@@ -34,8 +34,8 @@ Currently, I am interested in Computer, Web and Music.</br>
 
 <p align="center">
  <img src="https://img.shields.io/badge/OS-MacOS-red?&logo=apple"/>
- <img src="https://img.shields.io/badge/OS-Linux-yellow?&logo=linux"/>
  <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=windows"/>
+ <img src="https://img.shields.io/badge/OS-Linux-yellow?&logo=linux"/>
  <img src="https://img.shields.io/badge/Code-Python-purple?&logo=python"/>
  <img src="https://img.shields.io/badge/Code-C/C++-black?&logo=c"/>
 </p>
