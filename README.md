@@ -29,8 +29,14 @@ Currently, I am interested in Computer, Web and Music.</br>
   - 🕵🏻‍♂️ Pronouns: He/Him</br>
 </details>
 
-[![](https://visitcount.itsvg.in/api?id=asepms92&icon=5&color=0&align=center)](https://visitcount.itsvg.in)</br>
-[![](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-003087?style=for-the-badge&logo=paypal&logoColor=blue&align=center)](https://paypal.me/asepms/)</br>
+<p align="center">
+ <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=asepms92&icon=5&color=0"/>
+ </a>
+ <a href="https://paypal.me/asepms">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-003087?style=for-the-badge&logo=paypal&logoColor=blue"/>
+ </a>
+</p>
 
 <p align="center">
  <img src="https://img.shields.io/badge/OS-MacOS-red?&logo=apple"/>
@@ -41,6 +47,13 @@ Currently, I am interested in Computer, Web and Music.</br>
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=asepms92&theme=vision-friendly-dark&include_all_commits=true&count_private=false&layout=compact" height=170/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asepms92&theme=vision-friendly-dark&include_all_commits=true&count_private=false&layout=compact" height=170/>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=asepms92&show_icons=true&theme=shadow_green&include_all_commits=true&count_private=false&layout=compact" alt="GitHub Stats" height=170/>
+ </a>
+ <a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asepms92&show_icons=true&theme=shadow-green&include_all_commits=true&count_private=false&layout=compact" alt="GitHub Streak" height=170/>
+ </a>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asepms92&show_icons=true&theme=shadow_green&include_all_commits=true&count_private=false&layout=compact" alt="GitHub Stats" height=170/>
+ </a>
 </p>
