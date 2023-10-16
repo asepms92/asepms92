@@ -5,16 +5,16 @@
 <details>
  <summary><strong>Click here</strong></summary>
   <a href="https://linkedin.com/in/moehammad-asep-ab405048">
-   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30" alt="Linkedin profile"/>
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin profile" width="30"/>
   </a>
   <a href="https://soundcloud.com/asepmscom">
-   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg" width="30" alt="SoundCloud profile"/>
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg" alt="SoundCloud profile" width="30"/>
   </a>
   <a href="https://twitter.com/asepmscom">
-   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30" alt="Twitter profile"/>
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter profile" width="30"/>
   </a>
   <a href="https://instagram.com/asepmscom">
-   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30" alt="Instagram profile"/>
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram profile" width="30"/>
   </a>
 </details>
 
@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=asepms92&show_icons=true&theme=gotham&bg_color=FFFFFF00&hide_border=true&hide_progress=true&include_all_commits=true&count_private=false&rank_icon=github" alt="GitHub Stats" height=160/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=asepms92&show_icons=true&theme=gotham&background=FFFFFF00&stroke=FFFFFF00&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Streak" height=160/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asepms92&show_icons=true&theme=gotham&bg_color=FFFFFF00&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="GitHub Stats" height=160/>
+ <img src="https://github-readme-stats.vercel.app/api?username=asepms92&show_icons=true&theme=gotham&bg_color=FFFFFF00&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" height=160/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=asepms92&theme=gotham&background=FFFFFF00&stroke=FFFFFF00&hide_border=true" alt="GitHub Streak Stats" height=160/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asepms92&theme=gotham&bg_color=FFFFFF00&hide_border=true&layout=compact" alt="GitHub Stats" height=160/>
 </p>
