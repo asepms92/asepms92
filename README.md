@@ -1,11 +1,11 @@
 ## Hola, Geeks!
-<img src="https://readme-typing-svg.demolab.com?font=Young+Serif&duration=3000&pause=1000&random=false&width=435&lines=I'm+Asep+M.+S.+just+a+simple+man;I'm+interested+in+Computer%2C+Web+%26+Music" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Young+Serif&duration=3000&pause=1000&color=2AA889&random=false&width=435&lines=I'm+Asep+M.+S.+just+a+simple+man;I'm+interested+in+Computer%2C+Web+%26+Music" alt="Typing SVG"/>
 
 ### Follow me:
 <details>
  <summary><strong>Click here</strong></summary>
-  <a href="https://github.com/asepms92">
-   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="30" alt="GitHub profile"/>
+  <a href="https://linkedin.com/in/moehammad-asep-ab405048">
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30" alt="Linkedin profile"/>
   </a>
   <a href="https://soundcloud.com/asepmscom">
    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg" width="30" alt="SoundCloud profile"/>
@@ -13,8 +13,8 @@
   <a href="https://twitter.com/asepmscom">
    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30" alt="Twitter profile"/>
   </a>
-  <a href="https://linkedin.com/in/moehammad-asep-ab405048">
-   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30" alt="Linkedin profile"/>
+  <a href="https://instagram.com/asepmscom">
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30" alt="Instagram profile"/>
   </a>
 </details>
 
