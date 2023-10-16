@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=asepms92&show_icons=true&theme=gotham&bg_color=FFFFFF00&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="GitHub Stats" height=170/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=asepms92&show_icons=true&theme=gotham&background=FFFFFF00&stroke=FFFFFF00&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="GitHub Streak" height=170/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asepms92&show_icons=true&theme=gotham&bg_color=FFFFFF00&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="GitHub Stats" height=170/>
+ <img src="https://github-readme-stats.vercel.app/api?username=asepms92&show_icons=true&theme=gotham&bg_color=FFFFFF00&hide_border=true&hide_progress=true&include_all_commits=true&count_private=false&rank_icon=github" alt="GitHub Stats" height=160/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=asepms92&show_icons=true&theme=gotham&background=FFFFFF00&stroke=FFFFFF00&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Streak" height=160/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asepms92&show_icons=true&theme=gotham&bg_color=FFFFFF00&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="GitHub Stats" height=160/>
 </p>
