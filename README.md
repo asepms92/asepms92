@@ -1,5 +1,5 @@
 ## Hola, Geeks!
-<img src="https://readme-typing-svg.demolab.com?font=Young+Serif&duration=3000&pause=1000&color=2AA889&random=false&width=435&lines=I'm+Asep+M.+S.+just+a+simple+man;I'm+interested+in+Computer%2C+Web+%26+Music" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Young+Serif&duration=3000&pause=1000&color=2AA889&random=false&width=465&lines=I'm+Asep+M.+S.+just+a+simple+man;I'm+interested+in+Computer%2C+Web+%26+Music" alt="Typing SVG"/>
 
 ### Follow me:
 <details>
@@ -38,8 +38,8 @@
  <img src="https://img.shields.io/badge/OS-MacOS-red?&logo=apple"/>
  <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=windows"/>
  <img src="https://img.shields.io/badge/OS-Manjaro-green?&logo=manjaro"/>
- <img src="https://img.shields.io/badge/Code-C/C++-white?&logo=cplusplus"/>
- <img src="https://img.shields.io/badge/Code-Python-purple?&logo=python"/>
+ <img src="https://img.shields.io/badge/Lang-C/C++-white?&logo=cplusplus"/>
+ <img src="https://img.shields.io/badge/Lang-Python-purple?&logo=python"/>
 </p>
 
 <p align="center">
