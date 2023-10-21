@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=asepms92&show_icons=true&theme=gotham&bg_color=FFFFFF00&hide_border=true&include_all_commits=true&rank_icon=percentile" alt="GitHub Stats" height="160"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=asepms92&show_icons=true&theme=gotham&bg_color=FFFFFF00&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" height="160"/>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asepms92&theme=gotham&background=FFFFFF00&stroke=FFFFFF00&hide_border=true" alt="GitHub Streak Stats" height="160"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asepms92&theme=gotham&bg_color=FFFFFF00&hide_border=true&layout=compact" alt="GitHub Stats" height="160"/>
 </p>
