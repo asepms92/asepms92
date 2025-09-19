@@ -3,7 +3,7 @@
 
 ### Follow me:
 <details>
- <summary><strong>Click here</strong></summary>
+ <summary><strong>Expand</strong></summary>
   <a href="https://linkedin.com/in/moehammad-asep-ab405048">
    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin profile" width="30"/>
   </a>
@@ -28,7 +28,7 @@
 </details>
 
 <p align="center">
- <img src="https://visitcount.itsvg.in/api?id=asepms92&icon=5&color=0"/>
+ <img src="https://komarev.com/ghpvc/?username=asepms92&style=for-the-badge&color=yellowgreen"/>
  <a href="https://paypal.me/asepms">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-003087?style=for-the-badge&logo=paypal&logoColor=blue"/>
  </a>
